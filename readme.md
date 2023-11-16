@@ -1,5 +1,3 @@
-Certamente! Aqui está a documentação reescrita em Markdown com alguns emojis:
-
 # 🎓 Gerador de Certificados para o Diretório Acadêmico de Sistemas de Informação - UFF
 
 Este script em Python foi desenvolvido para automatizar a geração de certificados de participação em palestras para o Diretório Acadêmico de Sistemas de Informação da Universidade Federal Fluminense (UFF). O código lê informações de participação de um arquivo CSV denominado `attendance.csv` e cria certificados em formato DOCX e PDF para os alunos.
